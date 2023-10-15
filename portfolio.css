@@ -21,20 +21,20 @@ nav{
 #call{
     margin-top: 7px;
     margin-left: 60px;
-    border: 1px solid seagreen;
+    border: 1px solid white;
     border-radius: 20px;
     padding: 10px;
 }
 #form1{
     margin-left: 40px;
-    border: 1px solid seagreen;
+    border: 1px solid white;
     border-radius: 20px;
     padding: 20px;
 
 }
 #mapss{
     margin-top: 5px;
-    border: 1px solid seagreen;
+    border: 1px solid white;
     border-radius: 20px;
     padding: 10px;
 
